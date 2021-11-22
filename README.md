@@ -1,2 +1,2 @@
 # ToDoListProjectWith-JS
-This is an Todo List Project with JavaScript.
+This is a Todo List Project with JavaScript.
